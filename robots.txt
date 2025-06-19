@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://pandaeditor.github.io/sitemap.xml
